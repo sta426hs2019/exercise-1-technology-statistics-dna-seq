@@ -11,4 +11,4 @@ Sequencing by synthesis to obtain the reads. Output is an image.
 Data analysis of the reads, i.e. mapping for example.
 
 ## Part B
-TODO
+TODO part b of exercise
