@@ -1,5 +1,5 @@
-# DNA Seq Summary
-
+# Excercise 2
+## Part A
 ## Workflow
 #### First step
 Sample preparation: randomly fragment genomic DNA and ligate adapters.
@@ -8,4 +8,6 @@ Cluster generation: bind single strand fragments to the surface of the flow cell
 ##### Third Step
 Sequencing by synthesis to obtain the reads. Output is an image.
 ##### Fourth Step
-Data analysis to 
+Data analysis of the reads, i.e. mapping for example.
+
+## Part B
