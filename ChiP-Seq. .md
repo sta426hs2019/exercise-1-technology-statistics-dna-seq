@@ -1,6 +1,12 @@
 # ChiP-Seq. 
 
+#### Github Usernames
+ + sarahmorillo
+ + adrianom2017
+ + mirophan
+
 ### Method
+
 ChiP-seq. allows to identify the DNA binding sites of proteins by
 
  + coupling protein to the DNA
@@ -14,9 +20,5 @@ ChiP-seq. allows to identify the DNA binding sites of proteins by
 ChiP-seq. is used to determine how the phenotype could be influenced by transcription factors.
 
 ### Statistics
-In ChIP-Seq experiments, Poisson distribution is a natural choice to model the observed tag counts. However, Ji et al. (2008) illustrated that a negative binomial model provides a better fit to count data from ChIP-Seq experiments than a constant rate Poisson model. Thus a non-homogeneous negative binomial regression model is proposed.
 
-#### Usernames
- + sarahmorillo
- + adrianom2017
- + mirophan
+In ChIP-Seq experiments, Poisson distribution is a natural choice to model the observed tag counts. However, Ji et al. (2008) illustrated that a negative binomial model provides a better fit to count data from ChIP-Seq experiments than a constant rate Poisson model. Thus a non-homogeneous negative binomial regression model is proposed.
