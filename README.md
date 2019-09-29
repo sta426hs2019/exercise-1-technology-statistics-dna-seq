@@ -19,7 +19,7 @@ Data analysis of the reads, i.e. mapping for example.
 ##### Sources
 + [Illumina youtube](https://www.youtube.com/watch?v=fCd6B5HRaZ8)
 + [Illumina Sequencing Overview](https://www.well.ox.ac.uk/ogc/wp-content/uploads/2017/09/Illumina_Sequencing_Overview_15045845_D.pdf)
-
++ [Comparison of three next generation sequencing platforms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3431227/)
 
 
 
