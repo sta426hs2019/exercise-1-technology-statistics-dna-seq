@@ -5,14 +5,14 @@
  + adrianom2017
  + mirophan
 
-### Method
+### Technology
 
 ChiP-seq. allows to identify the DNA binding sites of proteins by
 
  + coupling protein to the DNA
  + cut DNA
  + fish for specific proteins using antibodies
- + reverse coupling by high-throughput sequencing
+ + reverse coupling and high-throughput sequencing
 
 
 ### Application
